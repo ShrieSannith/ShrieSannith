@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shrie</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img aling="center" src="https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/08/linkedin_banners_create_cover.jpg">
+<img aling="center" src="https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-71-1.webp">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 
 
