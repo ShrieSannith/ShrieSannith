@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Instance Segmentation**
+- 🔭 I’m currently working on **AIML**
 
 - 🌱 I’m currently learning **Mern Stack**
 
