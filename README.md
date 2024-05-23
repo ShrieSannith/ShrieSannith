@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **shriesannith03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ssEtoyK-Euj7emwRv_dl8InEvjbYZWt1/view?usp=drive_link](https://drive.google.com/file/d/1ssEtoyK-Euj7emwRv_dl8InEvjbYZWt1/view?usp=drive_link)
-
 - ⚡ Fun fact **Code runs on coffee fumes**
 
 
